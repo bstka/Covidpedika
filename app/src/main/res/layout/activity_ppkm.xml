@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".PpkmActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical" >
+
+            <TextView
+                android:id="@+id/textView36"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="@string/covid_ppkm_title"
+                android:textColor="@color/black"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView37"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:text="@string/covid_ppkm_title2"
+                android:textColor="@color/black"
+                android:textSize="16sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView38"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="22sp"
+                android:text="@string/covid_ppkm_content1"
+                android:textColor="@color/black"
+                android:textSize="16sp" />
+
+            <TextView
+                android:id="@+id/textView41"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_1"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView42"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_2"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView43"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_3"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView44"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_4"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView45"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_5"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView46"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_6"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView47"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_7"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView48"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="10sp"
+                android:text="@string/covid_ppkm_content1_8"
+                android:textColor="@color/black" />
+
+            <TextView
+                android:id="@+id/textView49"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="24sp"
+                android:layout_marginLeft="24sp"
+                android:layout_marginEnd="24sp"
+                android:layout_marginRight="24sp"
+                android:layout_marginBottom="15dp"
+                android:text="@string/covid_ppkm_content1_9"
+                android:textColor="@color/black" />
+
+        </LinearLayout>
+    </ScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

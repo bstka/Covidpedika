@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Covidpedika</string>
+    <string name="covid_definition">COVID-19 (coronavirus disease 2019) adalah penyakit yang disebabkan oleh jenis coronavirus baru yaitu Sars-CoV-2, yang dilaporkan pertama kali di Wuhan Tiongkok pada tanggal 31 Desember 2019. COVID-19 ini dapat menimbulkan gejala gangguan pernafasan akut seperti demam diatas 38°C, batuk dan sesak nafas bagi manusia. Selain itu dapat disertai dengan lemas, nyeri otot, dan diare. Pada penderita COVID-19 yang berat, dapat menimbulkan pneumonia, sindroma pernafasan akut, gagal ginjal bahkan sampai kematian.</string>
+    <string name="covid_definition2">COVID-19 dapat menular dari manusia ke manusia melalui kontak erat dan droplet (percikan cairan pada saat bersin dan batuk), tidak melalui udara. Bentuk COVID-19 jika dilihat melalui mikroskop elektron (cairan saluran nafas/ swab tenggorokan) dan digambarkan kembali bentuk COVID-19 seperti virus yang memiliki mahkota.</string>
+
+    <string name="covid_lifestyle">Perilaku sehat cegah corona</string>
+    <string name="covid_lifestyle2">Sampai saat ini vaksin untuk mencegah dan obat khusus untuk mengobati virus corona ini belum ditemukan. Maka satu-satunya cara yang paling efektif adalah dengan cara mencegah yaitu dengan menerapkan perilaku hidup bersih dan sehat (PHBS). Beberapa hal yang dapat dilakukan adalah:</string>
+    <string name="covid_lifestyle_title">1. Makan bergizi</string>
+    <string name="covid_lifestyle_title2">2. Olahraga teratur</string>
+    <string name="covid_lifestyle_title3">3. Sering cuci tangan</string>
+    <string name="covid_lifestyle_title4">4. Pakai masker</string>
+    <string name="covid_lifestyle_title5">6. Hindari berkerumun dan jaga jarak aman</string>
+    <string name="covid_lifestyle_content">Mengkonsumsi makanan bergizi khususnya sumber Vitamin C dan Vitamin E dapat meningkatkan daya tahan tubuh terhadap penyakit. Mengkonsumsi sumber zat gizi langsung dari makanan akan lebih baik dibandingkan didapat dari suplemen tambahan. Akan tetapi dalam kondisi tubuh memerlukan tambahan bisa juga dengan mengonsumsi suplemen vitamin dan mineral.</string>
+    <string name="covid_lifestyle_content2">Olah raga teratur dapat menangkal masuknya virus pada tubuh. Olah raga tidak harus diluar rumah. Dalam kondisi pandemic, olah raga bisa juga dilakukan di rumah.</string>
+    <string name="covid_lifestyle_content3">Cuci tangan dengan sabun pada air mengalir menjadi faktor yang sangat penting untuk membunuh virus yang menempel di tangan. Mencuci tangan selama kurang lebih 20 detik perlu dibudayakan agar kita tidak tertulari dan tidak menulari. Mencuci tangan dengan hand sanitizer menjadi alternatif kedua jika tidak tersedia tempat cuci tangan dengan sabun. Kandungan alkohol dalam hand sanitizer menurut WHO minimal 60 %. Sangat dianjurkan jika setiap kali kita keluar rumah selalu membawa hand sanitizer pada tas atau saku.</string>
+    <string name="covid_lifestyle_content4">Virus corona dapat menular melalui droplet, yaitu cairan yang keluar bersamaan ketika batuk, bersin atau percikan air liur ketika berbicara. Oleh sebab itu menggunakan masker dapat melindungi orang lain yang mungkin kita tulari atau mengcegah menularan dari orang lain pada kita. Banyak yang salah ketika menggunakan masker, misalnya membuka masker ketika bicara.</string>
+    <string name="covid_lifestyle_content5">Menurut penelitian, percikan droplet keluar dari mulut rata-rata sejauh 1,8 meter. Oleh karena itu jaga jarak dengan orang lain minimal dua meter. Jangan berkerumun karena sangat berpotensi terjadi penularan. Hindari sentuhan fisik seperti bersalaman, karena bisa menjadi media penularan perpindahan virus dari tangan ke tangan.</string>
+
+    <string name="covid_symtoms">Gejala</string>
+    <string name="covid_symtoms2">Masing-masing orang memiliki respons yang berbeda terhadap COVID-19. Sebagian besar orang yang terpapar virus ini akan mengalami gejala ringan hingga sedang, dan akan pulih tanpa perlu dirawat di rumah sakit.</string>
+    <string name="covid_symtoms_title">Gejala yang paling umum:</string>
+    <string name="covid_symtoms_title2">Gejala yang sedikit tidak umum:</string>
+    <string name="covid_symtoms_title3">Gejala serius:</string>
+
+    <string name="covid_symtoms_content1_1">1. Demam</string>
+    <string name="covid_symtoms_content1_2">2. Batuk Kering</string>
+    <string name="covid_symtoms_content1_3">3. Kelelahan</string>
+    <string name="covid_symtoms_content2_1">1. rasa tidak nyaman dan nyeri</string>
+    <string name="covid_symtoms_content2_2">2. nyeri tenggorokan</string>
+    <string name="covid_symtoms_content2_3">3. diare</string>
+    <string name="covid_symtoms_content2_4">4. mata merah</string>
+    <string name="covid_symtoms_content2_5">5. sakit kepala</string>
+    <string name="covid_symtoms_content2_6">6. hilangnya indera perasa atau penciuman</string>
+    <string name="covid_symtoms_content2_7">7. ruam pada kulit, atau perubahan warna pada jari tangan atau jari kaki</string>
+
+    <string name="covid_symtoms_content3_1">1. kesulitan bernapas atau sesak napas</string>
+    <string name="covid_symtoms_content3_2">2. nyeri dada atau rasa tertekan pada dada</string>
+    <string name="covid_symtoms_content3_3">3.	hilangnya kemampuan berbicara atau bergerak</string>
+    <string name="covid_symtoms_content0_1">Rata-rata gejala akan muncul 5–6 hari setelah seseorang pertama kali terinfeksi virus ini, tetapi bisa juga 14 hari setelah terinfeksi.</string>
+    <string name="covid_symtoms_content0_2">Orang dengan gejala ringan yang dinyatakan sehat harus melakukan perawatan mandiri di rumah.</string>
+
+    <string name="covid_ppkm_title">PPKM Adalah Singkatan dari Perberlakukan Pembatasan Kegiatan</string>
+    <string name="covid_ppkm_title2">PPKM Darurat</string>
+    <string name="covid_ppkm_content1">Berikut aturan pengetatan aktivitas masyarakat dalam PPKM darurat:</string>
+    <string name="covid_ppkm_content1_1">1. Sektor non esensial Menerapkan 100 persen work from home (WFH).</string>
+    <string name="covid_ppkm_content1_2">2. Kegiatan belajar mengajar Seluruh kegiatan belajar-mengajar dilakukan secara daring atau online.</string>
+    <string name="covid_ppkm_content1_3">3. Sektor esensial Diberlakukan 50 persen maksimum staf work from office (WFO) dengan protokol kesehatan, dan untuk sektor kritikal diperbolehkan 100 persen maksimal staf work from office (WFO) dengan protokol kesehatan.</string>
+    <string name="covid_ppkm_content1_4">4. Kegiatan di pusat perbelanjaan Kegiatan pada pusat perbelanjaan/mal/pusat perdagangan ditutup.</string>
+    <string name="covid_ppkm_content1_5">5. Makan atau minum di tempat umum Pelaksanaan kegiatan makan/minum di tempat umum (warung makan, rumah makan, kafe, pedagang kaki lima, lapak jajanan) baik yang berada pada lokasi tersendiri maupun yang berlokasi pada pusat perbelanjaan/mal hanya menerima delivery atau take away dan tidak menerima makan di tempat (dine in).</string>
+    <string name="covid_ppkm_content1_6">6. Kegiatan konstruksi Pelaksanaan kegiatan konstruksi (tempat konstruksi dan lokasi proyek) beroperasi 100 persen dengan menerapkan protokol kesehatan secara lebih ketat.</string>
+    <string name="covid_ppkm_content1_7">7. Kegiatan di tempat ibadah Tempat ibadah seperti masjid, musHala, gereja, pura, vihara dan klenteng serta tempat umum lainnya yang difungsikan sebagai tempat ibadah, ditutup sementara.</string>
+    <string name="covid_ppkm_content1_8">8. Kegiatan di fasilitas umum Fasilitas umum (area publik, taman umum, tempat wisata umum dan area publik lainnya) ditutup sementara.</string>
+    <string name="covid_ppkm_content1_9">9. Kegiatan seni budaya dan olahraga Kegiatan seni budaya, olahraga dan sosial kemasyarakatan (lokasi seni, budaya, sarana olahraga, dan kegiatan sosial yang dapat menimbulkan keramaian dan kerumunan) ditutup sementara.</string>
+</resources>
